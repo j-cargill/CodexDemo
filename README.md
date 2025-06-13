@@ -29,6 +29,7 @@ This will output:
 Result: 5.0
 ```
 
+
 ## Running Tests
 
 To run the test suite use:
@@ -49,3 +50,4 @@ Think of this calculator like a helper that does math for you. You tell it two n
 Try typing `python calculator.py 4 + 5` and it will tell you the answer (`Result: 9.0`).
 
 Have fun practicing your math!
+
