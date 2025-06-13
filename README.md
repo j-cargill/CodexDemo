@@ -28,13 +28,6 @@ This will output:
 ```
 Result: 5.0
 ```
-## Running the GUI
-
-To start the graphical interface run:
-
-```bash
-python calculator_gui.py
-```
 
 
 ## Running Tests
@@ -57,4 +50,4 @@ Think of this calculator like a helper that does math for you. You tell it two n
 Try typing `python calculator.py 4 + 5` and it will tell you the answer (`Result: 9.0`).
 
 Have fun practicing your math!
-You can also open a small window by running `python calculator_gui.py` and clicking the buttons to do math!
+
